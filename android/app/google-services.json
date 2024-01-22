@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557012496770",
+    "project_id": "flutterfly-bloc-latest",
+    "storage_bucket": "flutterfly-bloc-latest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557012496770:android:2630b27b0faf0b44845f9b",
+        "android_client_info": {
+          "package_name": "com.example.flutterly_bloc_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5Our9731rm90lNQ8iSuVZA7bql_26e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
